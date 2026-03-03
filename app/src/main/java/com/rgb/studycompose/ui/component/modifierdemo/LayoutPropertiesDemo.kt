@@ -1,4 +1,4 @@
-package com.rgb.studycompose.ui.component
+package com.rgb.studycompose.ui.component.modifierdemo
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
